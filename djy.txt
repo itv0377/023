@@ -1,4 +1,5 @@
 专业频道,#genre#
+CCTV13,http://vapi.91kds.cc/live1/cctvxw.m3u8?bt=2&id=cctv13hd&apiKey=f7b64854cd0c362f77b24a9da6ec9e85
 武·功夫↾,http://43.138.170.29:35455/douyu/11566286
 TVB剧场,http://43.138.170.29:35455/douyu/11924621
 Shaoshi,http://159.75.85.63:35455/douyu/4246519
