@@ -82,7 +82,7 @@ CETV-1,http://mobilelive-ds.ysp.cctv.cn/ysp/2022823801.m3u8
 ———————————————————————————————————————————————————
 精选,#genre#
 
-重温经典,http://cg12.hunancatv.cn:9090/live/CWJD.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=1503359536
+重温经典,http://cg12.hunancatv.cn:9090/live/CWJD.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=1503359536318867014&srchost=172.16.22.158:8060&gid=OHehEP1KV9FqguWiPXrX6Q%3D%3D
 重温经典-pull,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 重温经典-cqyx,http://vapi.91kds.cc/live1/cqyx.m3u8?id=cwjd&apiKey=f7b64854cd0c362f77b24a9da6ec9e85
 重温经典-loudi,http://iptv.nastool.site:56789/hotel/lde.php?id=cwjd
