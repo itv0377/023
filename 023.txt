@@ -1,6 +1,6 @@
 老家,#genre#
 
-CCTV新闻,http://222.95.43.216:9000/rtp/239.49.8.109:8000
+CCTV新闻,http://vapi.91kds.cc/live1/udp.m3u8?ip=jiangxi-dx&id=239.252.219.18:5140&apiKey=f7b64854cd0c362f77b24a9da6ec9e85
 CCTV-13,http://vapi.91kds.cc/live1/cctvxw.m3u8?bt=2&id=cctv13hd&apiKey=f7b64854cd0c362f77b24a9da6ec9e85
 河南卫视,http://120.76.248.139/live/hatv/hawshd.m3u8
 河南乡村,http://120.76.248.139/live/hatv/hatv9.m3u8
